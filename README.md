@@ -6,7 +6,7 @@ The **QSCO-Project**, established in **2015** and restructured in **2019**, is a
 ### **What is OSINT?**
 OSINT involves collecting and analyzing publicly available information to create actionable insights, from data analytics to strategic forecasting. However, **QSCO** takes this a step further by integrating **closed-source methodologies**, ensuring that sensitive information remains secure and proprietary.
 
-Our unique structure, known as **"The QS Process"**, is powered by five specialized departments, each contributing to securing and analyzing critical information. Additionally, QSCO employs its own **custom language, Mattricette**, to encode communications and maintain confidentiality.
+Our unique structure, known as **"The QS Process"**, is powered by five specialized departments, each contributing to securing and analyzing critical information. Additionally, QSCO employs its own **custom language, Mattricette**, to... partially... encode communications and maintain confidentiality.
 
 ---
 
@@ -34,7 +34,7 @@ Mattricette is a custom language consisting of **159 words**, derived from Engli
 ---
 
 ## **Proprietary Systems**
-Our tools and methodologies are **exclusive to verified collaborators**. Access is granted only after agreeing to the **Terms of Service (TOS)**. These systems remain inaccessible when recruitment is closed.
+Our tools and methods are **exclusive to verified collaborators**. Access is granted only after agreeing to the **Terms of Service (TOS)**. These systems remain inaccessible when recruitment is closed!!
 
 - **QSConsole**: A flagship tool introduced by former Director Matthew N., designed to enhance operational capabilities.
 
@@ -52,7 +52,7 @@ Our tools and methodologies are **exclusive to verified collaborators**. Access 
 ## **Frequently Asked Questions**
 
 ### **Can I inspect the code?**
-No. Our systems and tools are closed-source to ensure security and maintain proprietary control.
+No. Our systems and tools are closed-source to ensure security and maintain control =)
 
 ### **How can I contact QSCO?**
 - Visit the **Inner-Connections** page on our official website.  
