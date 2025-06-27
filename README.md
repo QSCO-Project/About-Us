@@ -27,7 +27,7 @@
 - **Director**: Benedict B. (2024–Present)  
 - **Supervisor**: Larton (2023–Present)  
 - **Past Directors**:    
-  - Matthew N.  
+  - Cronos M. / Matthew N.
   - Jerema  
   - Schmidth  
 
@@ -62,6 +62,9 @@
 - Up to 2 months.
 
 ---
+## **Official support emails**
+- **Proton**: [administration.qsco-project@proton.me](mailto:administration.qsco-project@proton.me)
+- **Support**: [support@qsco-inno-project.com](mailto:support@qsco-inno-project.com)
 
 ## **Links & Resources**
 - **Official Website**: [qsco-inno-project.com](https://qsco-inno-project.com)  
